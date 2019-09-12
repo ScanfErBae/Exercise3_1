@@ -37,14 +37,6 @@ namespace UT_NyOgBedre
         }
 
 
-        //[Test]
-        //public void Threshold_LowerTest()
-        //{
-
-        //}
-
-
-
 
     }
 }
