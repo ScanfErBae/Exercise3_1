@@ -23,7 +23,7 @@ namespace NyOgBedre
         }
     }
 
-    internal class TempSensor : ITempSensor
+    public class TempSensor : ITempSensor
     {
         private readonly IRandomGenerator _gen;
 
